@@ -1,0 +1,14 @@
+C:\Users\rbergamin\documents\visual studio 2015\Projects\Rip_Ice\Rip_Ice\bin\Debug\Rip_Ice.exe.manifest
+C:\Users\rbergamin\documents\visual studio 2015\Projects\Rip_Ice\Rip_Ice\bin\Debug\Rip_Ice.application
+C:\Users\rbergamin\documents\visual studio 2015\Projects\Rip_Ice\Rip_Ice\bin\Debug\Rip_Ice.exe
+C:\Users\rbergamin\documents\visual studio 2015\Projects\Rip_Ice\Rip_Ice\bin\Debug\Rip_Ice.pdb
+C:\Users\rbergamin\documents\visual studio 2015\Projects\Rip_Ice\Rip_Ice\obj\Debug\Rip_Ice.Form1.resources
+C:\Users\rbergamin\documents\visual studio 2015\Projects\Rip_Ice\Rip_Ice\obj\Debug\Rip_Ice.FormHelp.resources
+C:\Users\rbergamin\documents\visual studio 2015\Projects\Rip_Ice\Rip_Ice\obj\Debug\Rip_Ice.Properties.Resources.resources
+C:\Users\rbergamin\documents\visual studio 2015\Projects\Rip_Ice\Rip_Ice\obj\Debug\Rip_Ice.csproj.GenerateResource.Cache
+C:\Users\rbergamin\documents\visual studio 2015\Projects\Rip_Ice\Rip_Ice\obj\Debug\Rip_Ice.exe.manifest
+C:\Users\rbergamin\documents\visual studio 2015\Projects\Rip_Ice\Rip_Ice\obj\Debug\Rip_Ice.application
+C:\Users\rbergamin\documents\visual studio 2015\Projects\Rip_Ice\Rip_Ice\obj\Debug\Rip_Ice.exe
+C:\Users\rbergamin\documents\visual studio 2015\Projects\Rip_Ice\Rip_Ice\obj\Debug\Rip_Ice.pdb
+C:\Users\rbergamin\documents\visual studio 2015\Projects\Rip_Ice\Rip_Ice\obj\Debug\Rip_Ice.PrintOptions.resources
+C:\Users\rbergamin\documents\visual studio 2015\Projects\Rip_Ice\Rip_Ice\obj\Debug\Rip_Ice.csprojResolveAssemblyReference.cache
